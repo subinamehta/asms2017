@@ -39,15 +39,15 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 
 <br> _Wednesday, June 07, 2017 (5:45 pm - 7:00 pm, Room 135-136)_
  
-- Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
+- Introduction to Galaxy-P (_Tim Griffin_)
  
-- Basics of Data Analysis and Database Search using Galaxy platform. (_Tim Griffin_)
+- Introduction to JetStream. (_Jeremy Fischer_)
  
-- Metaproteomic analysis – Exploring taxonomy of the microbiome (_James Johnson_)
+- Proteogenomic Workflow (_Tim Griffin / Pratik Jagtap_)
  
-- Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
+- Metaproteomic Workflow (_Pratik Jagtap_)
  
-- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
+- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _Jeremy Fischer_)
 
 <br>
 
