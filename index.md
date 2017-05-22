@@ -20,7 +20,7 @@ _Did you think that Galaxy is just for genomic data analysis? Not anymore. Come 
 
 
 
-**Attendees are encouraged to bring a laptop computer to participate.**
+**_Attendees are encouraged to bring a laptop computer to participate._**
 
 <br>
 
