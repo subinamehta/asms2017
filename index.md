@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## **ASMS 2017 Workshop**
 
-You can use the [editor on GitHub](https://github.com/pravs3683/asms2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### **Galaxy-P in the Cloud: Proteomic Informatics on Jetstream**
+Wednesday, June 07, 2017 (5:45-7:00 PM, Room 135-136) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
 
-### Markdown
+[http://conf.abrf.org/the-galaxy-platform](http://conf.abrf.org/the-galaxy-platform){:target="_blank"}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Accessing Galaxy instance on JetStream: [http://z.umn.edu/galaxypsummer](http://z.umn.edu/galaxypsummer)
+- Workshop presentation slides: [http://z.umn.edu/sw1presentation](http://z.umn.edu/sw1presentation)
+- Workshop documentation: [http://z.umn.edu/sw1documentation](http://z.umn.edu/sw1documentation)
 
-```markdown
-Syntax highlighted code block
+**Galaxy-P platform for multi-omics!**
 
-# Header 1
-## Header 2
-### Header 3
+#### ***Not just for genomics anymore: Galaxy for proteomics and multi-omics*** 
+_Did you think that Galaxy is just for genomic data analysis? Not anymore. Come to this workshop to learn how Galaxy can be used for Mutli-omic data analysis (proteogenomic and metaproteomic) and also applications that cross the ‘omic domains. This workshop will provide attendees the opportunity to take Galaxy for a 'test drive' in analyzing MS-based proteomics data. Attendees will have the opportunity to access a Galaxy instance and a walk through of GalaxyP workflows for proteogenomic and metaproteomic data analysis. An overview of the current state of software available in Galaxy for proteomics and multi-omics applications will also be provided._ 
 
-- Bulleted
-- List
+**Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary._
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Attendees are encouraged to bring a laptop computer to participate.**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+**Workshop Schedule:**
+<br> _Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
+ 
+- Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
+ 
+- Basics of Data Analysis and Database Search using Galaxy platform. (_Tim Griffin_)
+ 
+- Metaproteomic analysis – Exploring taxonomy of the microbiome (_James Johnson_)
+ 
+- Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
+ 
+- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pravs3683/asms2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
 
-### Support or Contact
+**Workshop Goals:** 
+<br>
+- Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
+- Provide hands-on experience to attendees in using Galaxy
+- Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
+- Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
