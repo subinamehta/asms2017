@@ -5,7 +5,6 @@ Wednesday, June 07, 2017 (5:45 - 7:00 PM, Room 135-136)
 
 **Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
 
-
 - Accessing Galaxy instance on JetStream: [http://z.umn.edu/galaxypsummer](http://z.umn.edu/galaxypsummer)
 - Workshop presentation slides: [http://z.umn.edu/sw1presentation](http://z.umn.edu/sw1presentation)
 - Workshop documentation: [http://z.umn.edu/sw1documentation](http://z.umn.edu/sw1documentation)
