@@ -5,9 +5,9 @@ Wednesday, June 07, 2017 (5:45 - 7:00 PM, Room 135-136)
 
 **Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
 
-- Accessing Galaxy instance on JetStream: [http://z.umn.edu/galaxypsummer](http://z.umn.edu/galaxypsummer)
-- Workshop presentation slides: []()
-- Workshop documentation: []()
+- Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer)
+- Workshop presentation slides: [Presentation Link](link.link)
+- Workshop documentation: [Documentation Link](link.link)
 
 **Galaxy-P platform for multi-omics!**
 
