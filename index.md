@@ -5,16 +5,16 @@ Wednesday, June 07, 2017 (5:45 - 7:00 PM, Room 135-136)
 
 **Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
 
-- Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer)
-- Workshop presentation slides: [Presentation Link](link.link)
-- Workshop documentation: [Documentation Link](link.link)
+- Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
+- Workshop presentation slides: [Presentation Link](link.link){:target="_blank"}
+- Workshop documentation: [Documentation Link](link.link){:target="_blank"}
 
 **Galaxy-P platform for multi-omics!**
 
 #### ***Not just for genomics anymore: Galaxy for multi-omics analysis!!!*** 
 _Did you think that Galaxy is just for genomic data analysis? Not anymore. Come to this workshop to learn how Galaxy can be used for Mutli-omic data analysis (proteogenomic and metaproteomic) and also applications that cross the ‘omic domains. This hands-on workshop will guide participants through the essential steps for using Galaxy for the analysis of MS-based proteomics data, focusing on protein identification and more advanced multi-omic applications. Workflows from emerging applications integrating genomic and proteomic data (such as proteogenomics and metaproteomics) will also be demonstrated._
 
-_In order to extend the reach of these workflows to the greater community, the Galaxy-P team has partnered with both the JetStream cyberinfrastructure resource (http://jetstream-cloud.org/) and Amazon Web Services (https://aws.amazon.com)_.  
+_In order to extend the reach of these workflows to the greater community, the Galaxy-P team has partnered with both the [JetStream cyberinfrastructure resource](http://jetstream-cloud.org/){:target="_blank"} and [Amazon Web Services](https://aws.amazon.com){:target="_blank"}_.  
 
 **Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary_.
 
@@ -48,12 +48,12 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 
 <br>
 
--Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway)
+-Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
 
--Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway)
+-Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
 <br>
 
-Please provide us with your feedback []
+[Please provide us with your feedback](link.link){:target="_blank"}
 
 
