@@ -48,9 +48,9 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 
 <br>
 
--Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
+\- Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
 
--Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
+\- Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
 <br>
 
